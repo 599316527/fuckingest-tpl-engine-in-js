@@ -2,7 +2,8 @@ The Lightest & Fuckingest Template Engine Ever
 =============
 
 * Light
-* Sample
+* Simple
+* Unreliable
 * Hard to use
 
 [DEMO](https://rawgit.com/599316527/fuckingest-tpl-engine-in-js/master/example.html)
@@ -10,6 +11,12 @@ The Lightest & Fuckingest Template Engine Ever
 ## Usage
 
 ```javascript
+/**
+ * The Lightest & Fuckingest Template Engine Ever
+ * @param  {String} tpl
+ * @param  {Object} data
+ * @return {String}
+ */
 render(/* tpl */, /* data */);
 ```
 
