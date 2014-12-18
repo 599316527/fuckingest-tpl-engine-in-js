@@ -9,5 +9,7 @@ The Lightest & Fuckingest Template Engine Ever
 
 ## Usage
 
+```javascript
 render(/* tpl */, /* data */);
+```
 
